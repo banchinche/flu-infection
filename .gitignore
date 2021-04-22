@@ -1,0 +1,7 @@
+.DS_Store
+*checkpoints/
+ordered-dir-list.sh
+*.pptx
+*.pdf
+*.csv
+*.docx
