@@ -6,6 +6,10 @@ authors = ["Andrii Hrimov <andrii.hrimov@nixsolutions.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+numpy = "^1.21.3"
+pandas = "^1.3.4"
+statsmodels = "^0.13.0"
+matplotlib = "^3.4.3"
 
 [tool.poetry.dev-dependencies]
 
